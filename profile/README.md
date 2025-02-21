@@ -1,4 +1,4 @@
-# 👕 **FITLOOP 프로젝트**
+# **FITLOOP_Project**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6bb06a6-a87c-4507-8a58-7600ed47b422" alt="FITLOOP Logo">
 </p>
